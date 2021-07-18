@@ -1531,22 +1531,6 @@ a.menu-toggle {
 	color: white;
 	height: 800px;
 }
-#box {
-	margin: auto;
-	width: 90%;
-	height: 80%;
-	border: 1px solid red;
-	position: relative;
-}
-
-#box #second {
-	position: absolute;
-	width: 50%;
-	height: 50%;
-	border: 1px solid green;;
-	right: 5%;
-	bottom: 10%;
-}
 /**
  * ===================================================================
  * features section
@@ -2232,7 +2216,7 @@ footer ul li {
 .footer-main .footer-logo {
 	width: 162px;
 	height: 39px;
-	background: url("../images/footer-logo.png") no-repeat center;
+	background: url("../images/white-big-bg.png") no-repeat center;
 	background-size: 162px 39px;
 	margin: -.6rem 0 2.1rem -.3rem;
 	display: block;
